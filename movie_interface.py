@@ -12,7 +12,7 @@ justiceleague=movies.Movie("Justice League",
 			   "https://www.youtube.com/watch?v=r9-DM9uBtVI")
 #it(2017)movie
 
-it=movies.Movie("It(2017",
+it=movies.Movie("It(2017)",
 		"Seven young outcasts in Derry, Maine, are about to face their worst nightmare"
 		+" -- an ancient, shape-shifting evil that emerges from the sewer every 27 years"
 		+" to prey on the town's children",
