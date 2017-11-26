@@ -8,9 +8,9 @@ This project creates a website which displays movie poster and plays trailer whe
 - Wonderwoman
 
 ## Files present in the repository
-* movies.py
-* fresh_tomatoes.py
-* movie_interface.py
+* movies.py  (contain details of all movie)
+* fresh_tomatoes.py (makes the html file)
+* movie_interface.py (your main python script)
 
 ## System Requirements
 - [x] Install latest version of Python
