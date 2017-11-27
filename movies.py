@@ -3,8 +3,10 @@
 import webbrowser
 
 class Movie():
+	""" 
+	This class gives the template for movies and defines methoud which shows trailer
+	"""	
 	#Constructor 
-
 	def __init__(self, title, plot, image_url, youtube_trailer_url):
 		self.title=title
 		self.storyline=plot
